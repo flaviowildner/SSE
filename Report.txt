@@ -1,0 +1,12 @@
+Processador: i5 4440 3.3Ghz
+Memória: 8gb 1600Mhz
+
+
+Matriz 1000x1000:
+Multiplicação escalar: Média de 3.50s
+Multiplicação vetorial: Média de 1.81s
+
+
+Matriz 10000x10000:
+Identidade escalar: Média de 1.52s
+Identidade vetorial: Média de 1.27s
